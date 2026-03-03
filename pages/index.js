@@ -1,5 +1,5 @@
 function Home ()  {
-    return <h1>Me consegue um copo com água pf.</h1>
+    return <h1>Muito obrigado!</h1>
 }
 
 export default Home;
